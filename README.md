@@ -104,6 +104,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Siffrein sigy | II | IT | |
 | Akshay Sharma | III | CSE | |
 | Suraj Kumar | III | CSE | [@surajkumarcse](https://hacktoberfest.digitalocean.com/stats/surajkumarcse) |
+| [Abhishek Varshney](https://github.com/AbhishekVarshney98)| II | CSE | [@AbhishekVarshney98](https://hacktoberfest.digitalocean.com/stats/AbhishekVarshney98) | 
 | Namandeep Singh | III | CSE | |
 | Harshit Bansal | II | CSE | |
 | Manpreet | I | IT | |
